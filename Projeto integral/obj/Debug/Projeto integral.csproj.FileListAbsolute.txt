@@ -1,0 +1,21 @@
+Z:\Programas\C# faculdade\Projeto integral\bin\Debug\Projeto integral.exe.config
+Z:\Programas\C# faculdade\Projeto integral\bin\Debug\Projeto integral.exe
+Z:\Programas\C# faculdade\Projeto integral\bin\Debug\Projeto integral.pdb
+Z:\Programas\C# faculdade\Projeto integral\bin\Debug\LiveCharts.dll
+Z:\Programas\C# faculdade\Projeto integral\bin\Debug\LiveCharts.WinForms.dll
+Z:\Programas\C# faculdade\Projeto integral\bin\Debug\LiveCharts.Wpf.dll
+Z:\Programas\C# faculdade\Projeto integral\bin\Debug\LiveCharts.pdb
+Z:\Programas\C# faculdade\Projeto integral\bin\Debug\LiveCharts.xml
+Z:\Programas\C# faculdade\Projeto integral\bin\Debug\LiveCharts.WinForms.pdb
+Z:\Programas\C# faculdade\Projeto integral\bin\Debug\LiveCharts.WinForms.xml
+Z:\Programas\C# faculdade\Projeto integral\bin\Debug\LiveCharts.Wpf.pdb
+Z:\Programas\C# faculdade\Projeto integral\bin\Debug\LiveCharts.Wpf.xml
+Z:\Programas\C# faculdade\Projeto integral\obj\Debug\Projeto integral.csproj.AssemblyReference.cache
+Z:\Programas\C# faculdade\Projeto integral\obj\Debug\Projeto integral.csproj.SuggestedBindingRedirects.cache
+Z:\Programas\C# faculdade\Projeto integral\obj\Debug\Projeto_integral.Form1.resources
+Z:\Programas\C# faculdade\Projeto integral\obj\Debug\Projeto_integral.Properties.Resources.resources
+Z:\Programas\C# faculdade\Projeto integral\obj\Debug\Projeto integral.csproj.GenerateResource.cache
+Z:\Programas\C# faculdade\Projeto integral\obj\Debug\Projeto integral.csproj.CoreCompileInputs.cache
+Z:\Programas\C# faculdade\Projeto integral\obj\Debug\Projeto integral.csproj.CopyComplete
+Z:\Programas\C# faculdade\Projeto integral\obj\Debug\Projeto integral.exe
+Z:\Programas\C# faculdade\Projeto integral\obj\Debug\Projeto integral.pdb
